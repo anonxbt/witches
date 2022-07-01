@@ -6,11 +6,11 @@
 }
 
 body {
-  background-image: url(./img/wtch.jpg);
+  background-image: url(../images/wtch.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  position: relative;
+  height: 100vh;
 }
 .btn {
   position: absolute;
